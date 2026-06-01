@@ -49,16 +49,16 @@
 ## 📊 Статистика активности (GitHub Stats)
 
 <p align="center">
-  <!-- Карточка общей статистики (как в примере изображение.jpg) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ДЛЯ_СТАТИСТИКИ&show_icons=true&theme=dark&hide_border=true&title_color=34A853&icon_color=34A853&bg_color=161b22" alt="GitHub Stats" width="48%">
+  <!-- Карточка общей статистики -->
+  <img src="https://github-readme-stats.vercel.app/api?username=difikititi123-art&show_icons=true&theme=dark&hide_border=true&title_color=34A853&icon_color=34A853&bg_color=161b22" alt="GitHub Stats" width="48%">
   
   <!-- Карточка используемых языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ДЛЯ_СТАТИСТИКИ&layout=compact&theme=dark&hide_border=true&title_color=34A853&bg_color=161b22" alt="Top Langs" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=difikititi123-art&layout=compact&theme=dark&hide_border=true&title_color=34A853&bg_color=161b22" alt="Top Langs" width="48%">
 </p>
 
 <p align="center">
   <!-- Стрик коммитов -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ДЛЯ_СТАТИСТИКИ&theme=dark&hide_border=true&background=161b22&ring=34A853&sideNums=34A853" alt="GitHub Streak" width="97%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=difikititi123-art&theme=dark&hide_border=true&background=161b22&ring=34A853&sideNums=34A853" alt="GitHub Streak" width="97%">
 </p>
 
 ---
